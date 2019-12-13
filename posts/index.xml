@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chickenia - 치키니아</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Chickenia - 치키니아</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>한글입니다</title>
+      <link>/posts/first/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>제목입니다 글머리1 글머리2 글머리3 뭐야 변화가없어 이젠 좀 작아지네 ㄴㅁㄹㅇㄴㄻ  ㅇㅇㅇㅇ ㅋㅋㅋㅋ
+ #include &amp;lt;stdio.h&amp;gt;int main(void){return 0;} 하나 둘 셋   ㅇㅇㅇ  ㄴㄴㄴ    구글
+sdffdffsdfsdfdsfsfsdfsdsfsfsdfs    ID 제목 내용     sffdf      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/aaa/pp3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/aaa/pp3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/pp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pp2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
